@@ -13,6 +13,10 @@ A smart email processing system powered by LangGraph that automatically categori
 - **LangGraph Workflow**: Structured processing pipeline with visualization
 - **Agent-Based Architecture**: Modular design with specialized agents for different tasks
 
+## Architecture Diagram
+<img width="1193" alt="Screenshot 2025-06-08 at 11 30 46 PM" src="https://github.com/user-attachments/assets/6624cdba-da8c-4d2c-9d76-34a3726f9a4a" />
+
+
 ## Project Structure
 
 ```
