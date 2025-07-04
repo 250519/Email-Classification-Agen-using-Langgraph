@@ -66,15 +66,6 @@ email-tracking-system/
 └── README.md           # This file
 ```
 
-## Architecture
-
-The system follows an agent-based modular architecture:
-
-- **Agents**: Specialized components that perform specific tasks like summarization and classification
-- **Processing Modules**: Components that handle specific email categories
-- **Workflow**: LangGraph-powered pipeline that orchestrates the entire process
-- **Core Services**: Basic functionalities like email downloading and database operations
-
 ## Setup
 
 1. Clone the repository:
@@ -130,14 +121,7 @@ The system uses a LangGraph-powered workflow with specialized agents:
    - **Urgent**: Notification sent to desktop and marked as processed
    - **General**: Marked as processed
 
-## Web Dashboard
 
-The Streamlit dashboard provides:
-- Email processing workflow visualization
-- Job application tracking and management
-- Email category filtering and viewing
-- Manual processing controls
-- System statistics
 
 ## License
 
